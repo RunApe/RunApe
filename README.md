@@ -1,12 +1,10 @@
 https://runape.com monitors websites for content changes and security threats. We keep historical records. Automate browser actions into replayable scripts and save your precious time.
 
 **Simple to use:**
+
 Step 1: Go to any web page you want to monitor
-
 Step 2: Open the Hunter app via bookmarklet
-
 Step 3: Select the parts of the page that should be monitored
-
 Step 4: Save the new monitor and get a detailed email when the page changes
 
 
