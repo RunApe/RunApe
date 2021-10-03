@@ -1,9 +1,14 @@
 https://runape.com monitors websites for content changes and security threats. We keep historical records. Automate browser actions into replayable scripts and save your precious time.
 
-**"Many use cases"**
+**Simple to use:**
+Step 1: Go to any web page you want to monitor
+Step 2: Open the Hunter app via bookmarklet
+Step 3: Select the parts of the page that should be monitored
+Step 4: Save the new monitor and get a detailed email when the page changes
 
-**Status Tracking:**
-Track prices for products on any website and be alerted immediatelly when the price changes. Track stock prices, delivery dates, out-of-stocks, offers, discounts, deals, deadlines, extensions, expirations, event tickets, audition results, flight availability, advertisements, software releases, security advisories.
+**Many use cases**
+ **Status Tracking:**
+ Track prices for products on any website and be alerted immediatelly when the price changes. Track stock prices, delivery dates, out-of-stocks, offers, discounts, deals, deadlines, extensions, expirations, event tickets, audition results, flight availability, advertisements, software releases, security advisories.
 
  
 **Competitor Monitoring:**
