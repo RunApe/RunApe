@@ -1,6 +1,6 @@
 [RunApe](https://runape.com) monitors websites for content changes and security threats. We keep historical records. Automate browser actions into replayable [Monitor Scripts](https://github.com/RunApe/MonitorScripts) and save your precious time.
 
-### Simple to use
+### Simple to use. See our [YouTube videos](https://www.youtube.com/playlist?list=PLwqPcRBQBPVXW0boZp4XDNDOchUuDI9OI)
 
 Step 1: Go to any web page you want to monitor<br>
 Step 2: Open the Hunter app via bookmarklet<br>
