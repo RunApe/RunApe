@@ -2,13 +2,10 @@
 
 ### Simple to use
 
-Step 1: Go to any web page you want to monitor
-
-Step 2: Open the Hunter app via bookmarklet
-
-Step 3: Select the parts of the page that should be monitored
-
-Step 4: Save the new monitor and get a detailed email when the page changes
+Step 1: Go to any web page you want to monitor<br>
+Step 2: Open the Hunter app via bookmarklet<br>
+Step 3: Select the parts of the page that should be monitored<br>
+Step 4: Save the new monitor and get a detailed email when the page changes<br>
 
 ### Many use cases
 
