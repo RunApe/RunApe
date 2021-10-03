@@ -1,4 +1,4 @@
-Monitor websites for content changes and security threats. Keep historical records. Automate browser actions into replayable scripts and save your precious time.
+https://runape.com monitors websites for content changes and security threats. We keep historical records. Automate browser actions into replayable scripts and save your precious time.
 
 Many use cases:
 
