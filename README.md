@@ -1,6 +1,6 @@
 https://runape.com monitors websites for content changes and security threats. We keep historical records. Automate browser actions into replayable scripts and save your precious time.
 
-Many use cases:
+**"Many use cases"**
 
 **Status Tracking:**
 Track prices for products on any website and be alerted immediatelly when the price changes. Track stock prices, delivery dates, out-of-stocks, offers, discounts, deals, deadlines, extensions, expirations, event tickets, audition results, flight availability, advertisements, software releases, security advisories.
@@ -22,7 +22,7 @@ Be the first to know the breaking news that matters most to you. Filter out the 
 Ensure compliance on key web pages. Watch for potential risk. Track changes to legislation, specifications and requirements. Cloud archiving for legal and compliance.
 
  
-**Text Trackingv**
+**Text Tracking:**
 Record changes in articles and see the differences over time. Get notified when your favorite websites are updated or when a pre-defined keyword appear in a page.
 
  
